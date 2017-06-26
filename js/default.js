@@ -13,3 +13,5 @@ li.textContent='Buss';
 else{
 li.textContent='n';
 }
+ docmentt.getElementById('list').appendChild(li);
+}
