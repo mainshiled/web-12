@@ -5,11 +5,11 @@ if(n/3==1||n/5==1){
 li.textContent='FizzBuss';
 }
 else if(n/3==1){
-li.text='Fizz';
+li.textContent='Fizz';
 }
 else if(n/5==1){
-li.text='Buss';
+li.textContent='Buss';
 }
 else{
-li.text='n';
+li.textContent='n';
 }
