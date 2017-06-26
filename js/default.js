@@ -8,8 +8,8 @@ else if(n/3==1){
 li.text='Fizz';
 }
 else if(n/5==1){
-li.text='Buss'
+li.text='Buss';
 }
 else{
-li.text='n'
+li.text='n';
 }
